@@ -2,7 +2,7 @@
 #include <SDL2/SDL.h>
 #include <stdio.h>
 using namespace std;
-//Screen Dimensions
+//screen Dimensions
 const int WIDTH = 1280;
 const int HEIGHT = 720;
 int main(int argc,char* args[]){
